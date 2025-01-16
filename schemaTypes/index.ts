@@ -1,1 +1,3 @@
-export const schemaTypes = []
+import { navBarType } from "./navbarType";
+
+export const schemaTypes = [navBarType];
